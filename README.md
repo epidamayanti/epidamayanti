@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @epidamayanti
-- 👀 I’m interested in Android Programming
+- 👀 I’m interested in Android Programming, Full Stack 
 - 🌱 I’m currently learning Mechine Learning, CI/CD
-- 💞️ I’m looking to collaborate on Android Programming
+- 💞️ I’m looking to collaborate on Android Programming or Full Stack 
 - 📫 How to reach me evid.firdaus@gmail.com
 
 <!---
